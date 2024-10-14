@@ -5,7 +5,7 @@
     'summary': "Duplicate proudct restriction and discount limit check",
 
     'description': """
-Restrict the duplicate products on sale, purchase and invoice lines and also checks the discount limits exceeds for eacn products""",
+Restrict the duplicate products on sale, purchase and invoice lines and also checks the discount limits exceeds for each products""",
 
     'author': "My Company",
     'website': "https://www.yourcompany.com",
