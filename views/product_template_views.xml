@@ -1,0 +1,14 @@
+<odoo>
+  <data>
+    <record id="product_template_form_view_disc_limit" model="ir.ui.view">
+      <field name="name">product.template.form.view.inherit.dic.limit</field>
+      <field name="model">product.template</field>
+      <field name="inherit_id" ref="sale.product_template_form_view"/>
+      <field name="arch" type="xml">
+        <xpath expr="//field[@name='invoice_policy']" position="after">
+          <field name="discount_limit"/>
+        </xpath>
+      </field>
+    </record>
+  </data>
+</odoo>

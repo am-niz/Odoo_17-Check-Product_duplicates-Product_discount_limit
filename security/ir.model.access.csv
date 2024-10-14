@@ -1,0 +1,2 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+access_product_disc_restriction_product_disc_restriction,product_disc_restriction.product_disc_restriction,model_product_disc_restriction_product_disc_restriction,base.group_user,1,1,1,1
